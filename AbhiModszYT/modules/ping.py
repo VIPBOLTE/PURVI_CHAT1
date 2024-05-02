@@ -1,5 +1,5 @@
-ii# Don't remove This Line From Here.
-# Telegram :- your_alpha_baby
+# Don't remove This Line From Here.
+# Telegram :- AimXD
 
 import random
 from datetime import datetime
