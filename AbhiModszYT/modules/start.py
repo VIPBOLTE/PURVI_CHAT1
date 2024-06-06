@@ -1,7 +1,7 @@
 # Don't remove This Line From Here.
 # Telegram :- AimXD
 
-import asyncio
+"""import asyncio
 import random
 
 from pyrogram import filters
@@ -87,3 +87,4 @@ async def repo(_, m: Message):
 async def welcome(_, m: Message):
     for member in m.new_chat_members:
         await m.reply_photo(photo=random.choice(IMG), caption=START)
+"""
