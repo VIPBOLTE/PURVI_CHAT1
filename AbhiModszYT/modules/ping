@@ -1,7 +1,6 @@
 # Don't remove This Line From Here.
 # Telegram :- AimXD
 
-"""
 import random
 from datetime import datetime
 
@@ -38,4 +37,4 @@ async def ping(_, message: Message):
         await add_served_user(message.from_user.id)
     else:
         await add_served_chat(message.chat.id)
-"""
+
